@@ -24,7 +24,4 @@ Building the **"Hybrid Shield Ecosystem"** by 2026—a secure, cross-platform en
 - [ ] **Phase 3:** Desktop Admin Panel (JavaFX) & Spring Boot Integration
 
 > "The code I write today is the foundation of the systems I'll secure tomorrow." 🛡️
-> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankumarjha24&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarjha24&layout=compact&theme=radical&hide_border=true" width="300" />
-</p>
+>
